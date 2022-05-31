@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo-devops:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2022-05-31T15:06:38.183867+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 306948676140b051f467f34b69708e55a7c44fd2e93ed8588f9b662e1d95b2dc
+    name: demo-devops
+    type: application
+    urls:
+    - charts/demo-devops-0.1.10.tgz
+    version: 0.1.10
+generated: "2022-05-31T15:06:38.182239+08:00"
